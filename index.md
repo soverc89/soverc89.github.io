@@ -17,7 +17,7 @@ Programming Projects
 ---
 ### [MUSC Citation Parser | CSCI 315](MUSC_Citation_Parser_Portfolio.md)
 
-![Project 2 Thumbnail Name](images/Citation_Title.png)
+![Project 2 Thumbnail Name](images/Citation_Search.png)
 
 ---
 ### [Minimum Overlap | CSCI 325](MinimumOverlap_Project3.md)
@@ -27,7 +27,7 @@ Programming Projects
 ---
 ### [Inventory Management | CSCI 332](Inventory_Management_Portfolio.md)
 
-![Project 4 Thumbnail Name](images/Inventory_Title.png)
+![Project 4 Thumbnail Name](images/InventoryReport.png)
 
 ---
 
