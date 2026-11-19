@@ -6,6 +6,9 @@ Programming Projects
 
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
+### [Senior Project: Hunting Stand Weather Manager | CSCI 499](senior_project.md)
+
+---
 ---
 ### [Helping Hands 5k | CSCI 301](helping-hands-5k-project.md)
 
