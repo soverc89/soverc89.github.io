@@ -12,7 +12,7 @@ Programming Projects
 ---
 ### [Helping Hands 5k | CSCI 301](helping-hands-5k-project.md)
 
-![Project 1 Thumbnail Name](images/5k_Title.png)
+![Project 1 Thumbnail Name](images/HomePage.png)
 
 ---
 ### [MUSC Citation Parser | CSCI 315](MUSC_Citation_Parser_Portfolio.md)
@@ -22,7 +22,7 @@ Programming Projects
 ---
 ### [Minimum Overlap | CSCI 325](MinimumOverlap_Project3.md)
 
-![Project 3 Thumbnail Name](images/Overlap_Title.png)
+![Project 3 Thumbnail Name](images/MinimumOverlapExample.png)
 
 ---
 ### [Inventory Management | CSCI 332](Inventory_Management_Portfolio.md)
