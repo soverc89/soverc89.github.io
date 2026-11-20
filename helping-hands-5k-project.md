@@ -109,7 +109,7 @@ The application uses separate pages for visitors, registered runners, and admini
 
 
 ![screenshot](images/AdminDashboard.png)
-**Fig. 6.** Administrator dashboard used to review registrations and manage participant accounts. *[Screenshot needed]*
+**Fig. 6.** Administrator dashboard used to review registrations and manage participant accounts.
 
 
 [Back to Portfolio](./)
