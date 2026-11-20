@@ -101,7 +101,7 @@ Potential future enhancements include the existing roadmap and suggestions from 
 - **Property Boundaries**: Mark or display property boundaries on the map.
 
 ## 10. Defense Presentation Slides
-- [Link to Presentation Slides (Pending)]
+- [Hunting Stand Weather Manager Presentation(/pdf/Defense_Presentation.pdf)]
 
 ---
 
