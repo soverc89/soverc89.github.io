@@ -51,7 +51,7 @@ The main objective of this test plan is to define the scope and activities
 required to ensure the functionality, performance, and security of the hunting 
 stand management system. That involves ensuring that the core grading logic
 works accurately, that user data is stored securely, that API's are integrated 
-to communicate successfully, and that the UI features of the Webapp are 
+to communicate successfully, and that the UI features of the WebApp are 
 intuitive and easy to use.
 
 
@@ -68,7 +68,7 @@ Being able to create stands via map UI
 
 Weather and Grading Logic:
 Reliable API Data retrieval from OpenWeatherMap/Weather.gov, error handling for
-faiures. Grading accuracy. Grading calculation for future dates.
+failures. Grading accuracy. Grading calculation for future dates.
 
 UI:
 Dashboard having ranked display, color coding, and visual compass icons. Being 
@@ -90,10 +90,9 @@ weather data sources is out of scope for this project.
 UNIT TEST
 ---------
 
-### UNIT TEST STRATEGY / EXTENT OFl UNIT TESTING:
+### UNIT TEST STRATEGY / EXTENT OF UNIT TESTING:
 
 Evaluate new features and bug fixes introduced in this release. 
-(Specify the properties of test environment: hardware, software, network etc.)
 
 For unit testing I will perform automated testing on the web applications core 
 features. Specifically individual functions like the grading algorithm, data
@@ -184,12 +183,11 @@ USER-ACCEPTANCE TEST
 
 Verify that the solution works for potential user. Include the method (e.g.,
 heuristic, performance measures, thinking aloud, observation, questionnaire, 
-interviews, etc.), the number of participants and demographics, the concent
+interviews, etc.), the number of participants and demographics, the consent
 form, *scenarios*, scripts to read, and data collection methods.
 
 ### User-Acceptance Test Strategy
 
-(Explain how user acceptance testing will be accomplished.)
 The goal of this testing is to ensure that the application and interface is 
 intuitive and easy to use for the user. The main method of testing will be
 two scripted/simulated scenarios where (1) a user sets up a new property for hunting and
@@ -227,8 +225,6 @@ Map-based stand creation received a 5/5 ease-of-use rating. Feedback indicated t
 Test Deliverables
 -----------------
 
-(List test deliverables, and links to them if available, including the following.)
-
 -   Test Plan (this document itself)
 -   Test Scripts
 -   Defect/Enhancement Logs
@@ -240,7 +236,7 @@ Schedule
 
 - Automated Unit Tests: September 20th
 - Survey/Questionnaire Open: September 21st
-- Survery/Questionaire Closed: October 16th
+- Survey/Questionnaire Closed: October 16th
 
 Risks
 -----
