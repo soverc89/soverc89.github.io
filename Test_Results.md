@@ -7,6 +7,7 @@
 **Pass Rate**: 100%
 
 ### Unit Tests
+
 | Objective | Status | Notes |
 | :--- | :--- | :--- |
 | Grading Logic Perfect | PASS | Validated that a stand facing 0° with 180° wind returns 100% |
@@ -23,6 +24,7 @@
 | Password Security | PASS | Plain text passwords are not stored in the database |
 
 ### Integration & Regression Tests
+
 | Objective | Status | Notes |
 | :--- | :--- | :--- |
 | Weather API Connection Mocking | PASS | Validated parsing logic for points, stations, and observations |
